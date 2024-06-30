@@ -1,0 +1,393 @@
+/System/Library/Fonts/Supplemental/Academy Engraved LET Fonts.ttf
+/System/Library/Fonts/Supplemental/Al Nile.ttc
+/System/Library/Fonts/Supplemental/Al Tarikh.ttc
+/System/Library/Fonts/Supplemental/AlBayan.ttc
+/System/Library/Fonts/Supplemental/AmericanTypewriter.ttc
+/System/Library/Fonts/Supplemental/Andale Mono.ttf
+/System/Library/Fonts/Supplemental/Apple Chancery.ttf
+/System/Library/Fonts/Supplemental/AppleGothic.ttf
+/System/Library/Fonts/Supplemental/AppleMyungjo.ttf
+/System/Library/Fonts/Supplemental/Arial Black.ttf
+/System/Library/Fonts/Supplemental/Arial Bold Italic.ttf
+/System/Library/Fonts/Supplemental/Arial Bold.ttf
+/System/Library/Fonts/Supplemental/Arial Italic.ttf
+/System/Library/Fonts/Supplemental/Arial Narrow Bold Italic.ttf
+/System/Library/Fonts/Supplemental/Arial Narrow Bold.ttf
+/System/Library/Fonts/Supplemental/Arial Narrow Italic.ttf
+/System/Library/Fonts/Supplemental/Arial Narrow.ttf
+/System/Library/Fonts/Supplemental/Arial Rounded Bold.ttf
+/System/Library/Fonts/Supplemental/Arial Unicode.ttf
+/System/Library/Fonts/Supplemental/Arial.ttf
+/System/Library/Fonts/Supplemental/Athelas.ttc
+/System/Library/Fonts/Supplemental/Ayuthaya.ttf
+/System/Library/Fonts/Supplemental/Baghdad.ttc
+/System/Library/Fonts/Supplemental/Bangla MN.ttc
+/System/Library/Fonts/Supplemental/Bangla Sangam MN.ttc
+/System/Library/Fonts/Supplemental/Baskerville.ttc
+/System/Library/Fonts/Supplemental/Beirut.ttc
+/System/Library/Fonts/Supplemental/BigCaslon.ttf
+/System/Library/Fonts/Supplemental/Bodoni 72 OS.ttc
+/System/Library/Fonts/Supplemental/Bodoni 72 Smallcaps Book.ttf
+/System/Library/Fonts/Supplemental/Bodoni 72.ttc
+/System/Library/Fonts/Supplemental/Bodoni Ornaments.ttf
+/System/Library/Fonts/Supplemental/Bradley Hand Bold.ttf
+/System/Library/Fonts/Supplemental/Brush Script.ttf
+/System/Library/Fonts/Supplemental/Chalkboard.ttc
+/System/Library/Fonts/Supplemental/ChalkboardSE.ttc
+/System/Library/Fonts/Supplemental/Chalkduster.ttf
+/System/Library/Fonts/Supplemental/Charter.ttc
+/System/Library/Fonts/Supplemental/Cochin.ttc
+/System/Library/Fonts/Supplemental/Comic Sans MS Bold.ttf
+/System/Library/Fonts/Supplemental/Comic Sans MS.ttf
+/System/Library/Fonts/Supplemental/Copperplate.ttc
+/System/Library/Fonts/Supplemental/Corsiva.ttc
+/System/Library/Fonts/Supplemental/Courier New Bold Italic.ttf
+/System/Library/Fonts/Supplemental/Courier New Bold.ttf
+/System/Library/Fonts/Supplemental/Courier New Italic.ttf
+/System/Library/Fonts/Supplemental/Courier New.ttf
+/System/Library/Fonts/Supplemental/DIN Alternate Bold.ttf
+/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf
+/System/Library/Fonts/Supplemental/Damascus.ttc
+/System/Library/Fonts/Supplemental/DecoTypeNaskh.ttc
+/System/Library/Fonts/Supplemental/Devanagari Sangam MN.ttc
+/System/Library/Fonts/Supplemental/DevanagariMT.ttc
+/System/Library/Fonts/Supplemental/Didot.ttc
+/System/Library/Fonts/Supplemental/Diwan Kufi.ttc
+/System/Library/Fonts/Supplemental/Diwan Thuluth.ttf
+/System/Library/Fonts/Supplemental/EuphemiaCAS.ttc
+/System/Library/Fonts/Supplemental/Farah.ttc
+/System/Library/Fonts/Supplemental/Farisi.ttf
+/System/Library/Fonts/Supplemental/Futura.ttc
+/System/Library/Fonts/Supplemental/Galvji.ttc
+/System/Library/Fonts/Supplemental/Georgia Bold Italic.ttf
+/System/Library/Fonts/Supplemental/Georgia Bold.ttf
+/System/Library/Fonts/Supplemental/Georgia Italic.ttf
+/System/Library/Fonts/Supplemental/Georgia.ttf
+/System/Library/Fonts/Supplemental/GillSans.ttc
+/System/Library/Fonts/Supplemental/Gujarati Sangam MN.ttc
+/System/Library/Fonts/Supplemental/GujaratiMT.ttc
+/System/Library/Fonts/Supplemental/Gurmukhi MN.ttc
+/System/Library/Fonts/Supplemental/Gurmukhi Sangam MN.ttc
+/System/Library/Fonts/Supplemental/Gurmukhi.ttf
+/System/Library/Fonts/Supplemental/Herculanum.ttf
+/System/Library/Fonts/Supplemental/Hoefler Text Ornaments.ttf
+/System/Library/Fonts/Supplemental/Hoefler Text.ttc
+/System/Library/Fonts/Supplemental/ITFDevanagari.ttc
+/System/Library/Fonts/Supplemental/Impact.ttf
+/System/Library/Fonts/Supplemental/InaiMathi-MN.ttc
+/System/Library/Fonts/Supplemental/Iowan Old Style.ttc
+/System/Library/Fonts/Supplemental/Kailasa.ttc
+/System/Library/Fonts/Supplemental/Kannada MN.ttc
+/System/Library/Fonts/Supplemental/Kannada Sangam MN.ttc
+/System/Library/Fonts/Supplemental/Kefa.ttc
+/System/Library/Fonts/Supplemental/Khmer MN.ttc
+/System/Library/Fonts/Supplemental/Khmer Sangam MN.ttf
+/System/Library/Fonts/Supplemental/Kokonor.ttf
+/System/Library/Fonts/Supplemental/Krungthep.ttf
+/System/Library/Fonts/Supplemental/KufiStandardGK.ttc
+/System/Library/Fonts/Supplemental/Lao MN.ttc
+/System/Library/Fonts/Supplemental/Lao Sangam MN.ttf
+/System/Library/Fonts/Supplemental/Luminari.ttf
+/System/Library/Fonts/Supplemental/Malayalam MN.ttc
+/System/Library/Fonts/Supplemental/Malayalam Sangam MN.ttc
+/System/Library/Fonts/Supplemental/Marion.ttc
+/System/Library/Fonts/Supplemental/Microsoft Sans Serif.ttf
+/System/Library/Fonts/Supplemental/Mishafi Gold.ttf
+/System/Library/Fonts/Supplemental/Mishafi.ttf
+/System/Library/Fonts/Supplemental/Mshtakan.ttc
+/System/Library/Fonts/Supplemental/Muna.ttc
+/System/Library/Fonts/Supplemental/Myanmar MN.ttc
+/System/Library/Fonts/Supplemental/Myanmar Sangam MN.ttc
+/System/Library/Fonts/Supplemental/NISC18030.ttf
+/System/Library/Fonts/Supplemental/Nadeem.ttc
+/System/Library/Fonts/Supplemental/NewPeninimMT.ttc
+/System/Library/Fonts/Supplemental/NotoSansAdlam-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansAvestan-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansBamum-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansBassaVah-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansBatak-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansBhaiksuki-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansBrahmi-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansBuginese-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansBuhid-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansCanadianAboriginal-Regular.otf
+/System/Library/Fonts/Supplemental/NotoSansCarian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansCaucasianAlbanian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansChakma-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansCham-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansCoptic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansCuneiform-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansCypriot-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansDuployan-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansEgyptianHieroglyphs-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansElbasan-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansGlagolitic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansGothic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansGunjalaGondi-Regular.otf
+/System/Library/Fonts/Supplemental/NotoSansHanifiRohingya-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansHanunoo-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansHatran-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansImperialAramaic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansInscriptionalPahlavi-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansInscriptionalParthian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansJavanese-Regular.otf
+/System/Library/Fonts/Supplemental/NotoSansKaithi-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansKayahLi-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansKharoshthi-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansKhojki-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansKhudawadi-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansLepcha-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansLimbu-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansLinearA-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansLinearB-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansLisu-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansLycian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansLydian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMahajani-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMandaic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansManichaean-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMarchen-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMasaramGondi-Regular.otf
+/System/Library/Fonts/Supplemental/NotoSansMeeteiMayek-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMendeKikakui-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMeroitic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMiao-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansModi-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMongolian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMro-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansMultani-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansNKo-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansNabataean-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansNewTaiLue-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansNewa-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOlChiki-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOldHungarian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOldItalic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOldNorthArabian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOldPermic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOldPersian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOldSouthArabian-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOldTurkic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOsage-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansOsmanya-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansPahawhHmong-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansPalmyrene-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansPauCinHau-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansPhagsPa-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansPhoenician-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansPsalterPahlavi-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansRejang-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansSamaritan-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansSaurashtra-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansSharada-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansSiddham-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansSoraSompeng-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansSundanese-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansSylotiNagri-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansSyriac-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansTagalog-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansTagbanwa-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansTaiLe-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansTaiTham-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansTaiViet-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansTakri-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansThaana-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansTifinagh-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansTirhuta-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansUgaritic-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansVai-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansWancho-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansWarangCiti-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSansYi-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSerifAhom-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSerifBalinese-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSerifNyiakengPuachueHmong-Regular.ttf
+/System/Library/Fonts/Supplemental/NotoSerifYezidi-Regular.otf
+/System/Library/Fonts/Supplemental/Oriya MN.ttc
+/System/Library/Fonts/Supplemental/Oriya Sangam MN.ttc
+/System/Library/Fonts/Supplemental/PTMono.ttc
+/System/Library/Fonts/Supplemental/PTSans.ttc
+/System/Library/Fonts/Supplemental/PTSerif.ttc
+/System/Library/Fonts/Supplemental/PTSerifCaption.ttc
+/System/Library/Fonts/Supplemental/Papyrus.ttc
+/System/Library/Fonts/Supplemental/PartyLET-plain.ttf
+/System/Library/Fonts/Supplemental/Phosphate.ttc
+/System/Library/Fonts/Supplemental/PlantagenetCherokee.ttf
+/System/Library/Fonts/Supplemental/Raanana.ttc
+/System/Library/Fonts/Supplemental/Rockwell.ttc
+/System/Library/Fonts/Supplemental/STIXGeneral.otf
+/System/Library/Fonts/Supplemental/STIXGeneralBol.otf
+/System/Library/Fonts/Supplemental/STIXGeneralBolIta.otf
+/System/Library/Fonts/Supplemental/STIXGeneralItalic.otf
+/System/Library/Fonts/Supplemental/STIXIntDBol.otf
+/System/Library/Fonts/Supplemental/STIXIntDReg.otf
+/System/Library/Fonts/Supplemental/STIXIntSmBol.otf
+/System/Library/Fonts/Supplemental/STIXIntSmReg.otf
+/System/Library/Fonts/Supplemental/STIXIntUpBol.otf
+/System/Library/Fonts/Supplemental/STIXIntUpDBol.otf
+/System/Library/Fonts/Supplemental/STIXIntUpDReg.otf
+/System/Library/Fonts/Supplemental/STIXIntUpReg.otf
+/System/Library/Fonts/Supplemental/STIXIntUpSmBol.otf
+/System/Library/Fonts/Supplemental/STIXIntUpSmReg.otf
+/System/Library/Fonts/Supplemental/STIXNonUni.otf
+/System/Library/Fonts/Supplemental/STIXNonUniBol.otf
+/System/Library/Fonts/Supplemental/STIXNonUniBolIta.otf
+/System/Library/Fonts/Supplemental/STIXNonUniIta.otf
+/System/Library/Fonts/Supplemental/STIXSizFiveSymReg.otf
+/System/Library/Fonts/Supplemental/STIXSizFourSymBol.otf
+/System/Library/Fonts/Supplemental/STIXSizFourSymReg.otf
+/System/Library/Fonts/Supplemental/STIXSizOneSymBol.otf
+/System/Library/Fonts/Supplemental/STIXSizOneSymReg.otf
+/System/Library/Fonts/Supplemental/STIXSizThreeSymBol.otf
+/System/Library/Fonts/Supplemental/STIXSizThreeSymReg.otf
+/System/Library/Fonts/Supplemental/STIXSizTwoSymBol.otf
+/System/Library/Fonts/Supplemental/STIXSizTwoSymReg.otf
+/System/Library/Fonts/Supplemental/STIXTwoMath.otf
+/System/Library/Fonts/Supplemental/STIXTwoText-Italic.ttf
+/System/Library/Fonts/Supplemental/STIXTwoText.ttf
+/System/Library/Fonts/Supplemental/STIXVar.otf
+/System/Library/Fonts/Supplemental/STIXVarBol.otf
+/System/Library/Fonts/Supplemental/Sana.ttc
+/System/Library/Fonts/Supplemental/Sathu.ttf
+/System/Library/Fonts/Supplemental/Savoye LET.ttc
+/System/Library/Fonts/Supplemental/Seravek.ttc
+/System/Library/Fonts/Supplemental/Shree714.ttc
+/System/Library/Fonts/Supplemental/SignPainter.ttc
+/System/Library/Fonts/Supplemental/Silom.ttf
+/System/Library/Fonts/Supplemental/Sinhala MN.ttc
+/System/Library/Fonts/Supplemental/Sinhala Sangam MN.ttc
+/System/Library/Fonts/Supplemental/Skia.ttf
+/System/Library/Fonts/Supplemental/SnellRoundhand.ttc
+/System/Library/Fonts/Supplemental/Songti.ttc
+/System/Library/Fonts/Supplemental/SukhumvitSet.ttc
+/System/Library/Fonts/Supplemental/SuperClarendon.ttc
+/System/Library/Fonts/Supplemental/Tahoma Bold.ttf
+/System/Library/Fonts/Supplemental/Tahoma.ttf
+/System/Library/Fonts/Supplemental/Tamil MN.ttc
+/System/Library/Fonts/Supplemental/Tamil Sangam MN.ttc
+/System/Library/Fonts/Supplemental/Telugu MN.ttc
+/System/Library/Fonts/Supplemental/Telugu Sangam MN.ttc
+/System/Library/Fonts/Supplemental/Thonburi.ttc
+/System/Library/Fonts/Supplemental/Times New Roman Bold Italic.ttf
+/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf
+/System/Library/Fonts/Supplemental/Times New Roman Italic.ttf
+/System/Library/Fonts/Supplemental/Times New Roman.ttf
+/System/Library/Fonts/Supplemental/Trattatello.ttf
+/System/Library/Fonts/Supplemental/Trebuchet MS Bold Italic.ttf
+/System/Library/Fonts/Supplemental/Trebuchet MS Bold.ttf
+/System/Library/Fonts/Supplemental/Trebuchet MS Italic.ttf
+/System/Library/Fonts/Supplemental/Trebuchet MS.ttf
+/System/Library/Fonts/Supplemental/Verdana Bold Italic.ttf
+/System/Library/Fonts/Supplemental/Verdana Bold.ttf
+/System/Library/Fonts/Supplemental/Verdana Italic.ttf
+/System/Library/Fonts/Supplemental/Verdana.ttf
+/System/Library/Fonts/Supplemental/Waseem.ttc
+/System/Library/Fonts/Supplemental/Webdings.ttf
+/System/Library/Fonts/Supplemental/Wingdings 2.ttf
+/System/Library/Fonts/Supplemental/Wingdings 3.ttf
+/System/Library/Fonts/Supplemental/Wingdings.ttf
+/System/Library/Fonts/Supplemental/Zapfino.ttf
+/System/Library/Fonts/ADTNumeric.ttc
+/System/Library/Fonts/Apple Braille Outline 6 Dot.ttf
+/System/Library/Fonts/Apple Braille Outline 8 Dot.ttf
+/System/Library/Fonts/Apple Braille Pinpoint 6 Dot.ttf
+/System/Library/Fonts/Apple Braille Pinpoint 8 Dot.ttf
+/System/Library/Fonts/Apple Braille.ttf
+/System/Library/Fonts/Apple Color Emoji.ttc
+/System/Library/Fonts/Apple Symbols.ttf
+/System/Library/Fonts/AppleSDGothicNeo.ttc
+/System/Library/Fonts/AquaKana.ttc
+/System/Library/Fonts/ArialHB.ttc
+/System/Library/Fonts/Avenir Next Condensed.ttc
+/System/Library/Fonts/Avenir Next.ttc
+/System/Library/Fonts/Avenir.ttc
+/System/Library/Fonts/Courier.ttc
+/System/Library/Fonts/GeezaPro.ttc
+/System/Library/Fonts/Geneva.ttf
+/System/Library/Fonts/Helvetica.ttc
+/System/Library/Fonts/HelveticaNeue.ttc
+/System/Library/Fonts/Hiragino Sans GB.ttc
+/System/Library/Fonts/Keyboard.ttf
+/System/Library/Fonts/Kohinoor.ttc
+/System/Library/Fonts/KohinoorBangla.ttc
+/System/Library/Fonts/KohinoorGujarati.ttc
+/System/Library/Fonts/KohinoorTelugu.ttc
+/System/Library/Fonts/LastResort.otf
+/System/Library/Fonts/LucidaGrande.ttc
+/System/Library/Fonts/MarkerFelt.ttc
+/System/Library/Fonts/Menlo.ttc
+/System/Library/Fonts/Monaco.ttf
+/System/Library/Fonts/MuktaMahee.ttc
+/System/Library/Fonts/NewYork.ttf
+/System/Library/Fonts/NewYorkItalic.ttf
+/System/Library/Fonts/Noteworthy.ttc
+/System/Library/Fonts/NotoNastaliq.ttc
+/System/Library/Fonts/NotoSansArmenian.ttc
+/System/Library/Fonts/NotoSansKannada.ttc
+/System/Library/Fonts/NotoSansMyanmar.ttc
+/System/Library/Fonts/NotoSansOriya.ttc
+/System/Library/Fonts/NotoSerifMyanmar.ttc
+/System/Library/Fonts/Optima.ttc
+/System/Library/Fonts/Palatino.ttc
+/System/Library/Fonts/PingFang.ttc
+/System/Library/Fonts/SFArabic.ttf
+/System/Library/Fonts/SFArabicRounded.ttf
+/System/Library/Fonts/SFArmenian.ttf
+/System/Library/Fonts/SFArmenianRounded.ttf
+/System/Library/Fonts/SFCamera.ttf
+/System/Library/Fonts/SFCompact.ttf
+/System/Library/Fonts/SFCompactItalic.ttf
+/System/Library/Fonts/SFCompactRounded.ttf
+/System/Library/Fonts/SFGeorgian.ttf
+/System/Library/Fonts/SFGeorgianRounded.ttf
+/System/Library/Fonts/SFHebrew.ttf
+/System/Library/Fonts/SFHebrewRounded.ttf
+/System/Library/Fonts/SFNS.ttf
+/System/Library/Fonts/SFNSItalic.ttf
+/System/Library/Fonts/SFNSMono.ttf
+/System/Library/Fonts/SFNSMonoItalic.ttf
+/System/Library/Fonts/SFNSRounded.ttf
+/System/Library/Fonts/STHeiti Light.ttc
+/System/Library/Fonts/STHeiti Medium.ttc
+/System/Library/Fonts/Symbol.ttf
+/System/Library/Fonts/ThonburiUI.ttc
+/System/Library/Fonts/Times.ttc
+/System/Library/Fonts/ZapfDingbats.ttf
+/System/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc
+/System/Library/Fonts/ヒラギノ明朝 ProN.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W0.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W1.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W2.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W3.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W4.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W5.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W7.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W8.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W9.ttc
+/Library/Fonts/Arial Unicode.ttf
+/Library/Fonts/Artifakt Element Bold Italic.ttf
+/Library/Fonts/Artifakt Element Bold.ttf
+/Library/Fonts/Artifakt Element Italic.ttf
+/Library/Fonts/Artifakt Element Regular.ttf
+/Users/cimiox/Library/Fonts/Ballam to Brooklyn.otf
+/Users/cimiox/Library/Fonts/DejaVuSerif-Bold.ttf
+/Users/cimiox/Library/Fonts/DejaVuSerif-BoldItalic.ttf
+/Users/cimiox/Library/Fonts/DejaVuSerif-Italic.ttf
+/Users/cimiox/Library/Fonts/DejaVuSerif.ttf
+/Users/cimiox/Library/Fonts/MontserratSemiBold.ttf
+/Users/cimiox/Library/Fonts/Voronov.ttf
+/Users/cimiox/Library/Fonts/calligraph_fd4010f79ac0ac290f27647883b1ab50.ttf
+/Users/cimiox/Library/Fonts/consola.ttf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/Inter-Bold.otf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/Inter-BoldItalic.otf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/Inter-Italic.otf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/Inter-Medium.otf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/Inter-MediumItalic.otf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/Inter-Regular.otf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/Inter-SemiBold.otf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/Inter-SemiBoldItalic.otf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/RobotoMono-Bold.ttf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/RobotoMono-BoldItalic.ttf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/RobotoMono-Italic.ttf
+/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Resources/Fonts/RobotoMono-Regular.ttf
